@@ -1,31 +1,54 @@
-# ❤️ Chetan Nada's Portfolio 🙏
-### _This is my Portfolio Project, I made it using HTML, CSS and Javascript._ [Watch Live](https://chetannada.netlify.app/)
+# 👨‍💻 Dishant Pal Portfolio 💻🔥
+### _This is my Portfolio Project, built using HTML, CSS, and JavaScript._ [Watch Live](your-live-link.com)
+
+Welcome to my personal portfolio! Here you can learn more about me, explore my skills, check out the projects I've worked on, and get in touch.
+
+## 🚀 Clone this Repository
+Follow these steps to run this project locally:
+
+1. Clone the repository using the command below:
+
+    git clone "https://github.com/dishant4163/My-Portfolio.git"
+
+2. Navigate into the project directory:
+
+    cd My-Portfolio
+
+3. Open the index.html file in your browser to view the portfolio.
+
+Alternatively, you can also open the project in a code editor (like VSCode) to modify or enhance it.
 
 
-## 🔥 Clone this Repository
-You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+## 🔧 Features of This Portfolio
 
-```bash
-  git clone "https://github.com/chetannada/My-Portfolio.git"
-```
-Go to the project directory
+-  Home Section: An interactive landing page with welcoming messages.
 
-```bash
-  cd My-Portfolio
-```
-Install dependencies
-```bash
-  npm install
-```
-Start the server
-```bash
-  npm run start
-```
+-  About Me: Learn about my background, skills, and experience.
 
-This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+-  Skills: Showcases my technical skills with a visual representation.
+
+-  Projects: A carousel with some of my best work and achievements.
+
+-  Contact: A form for potential employers or collaborators to get in touch.
+
+-  Responsive Design: Optimized for different screen sizes and devices.
 
 
-## 🔗 Let's Connect
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chetannada.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
+## 🛠 Technologies Used
+-  HTML: Structure and content of the page.
+-  CSS: Styling and layout.
+-  JavaScript: Interactive functionality and dynamic content.
+-  Google Fonts: Custom typography (Poppins, Pacifico).
+
+## 💻 Running Locally
+To run this portfolio on your machine, follow the steps below:
+
+-  Clone the repository using Git.
+-  Navigate to the index.html file and open it in any modern browser to see the portfolio.
+
+
+
+## 📲 Let's Connect
+Feel free to reach out to me via my social media links below!
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-pal-3a809122b/)
